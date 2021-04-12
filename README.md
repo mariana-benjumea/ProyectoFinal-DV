@@ -11,4 +11,6 @@ c. La aplicación en general debe tener un fin concreto, por ejemplo, presentar 
 
 d. La aplicación debe ser original, es decir, no se puede hacer uso de aplicaciones ya creadas de repositorios públicos u otras fuentes. 
 
-Puedes ver mi práctica final en cloud aquí: https://marianabenjumea.shinyapps.io/practica_final/
+Puedes ver mi práctica final en cloud aquí: 
+* Shiny: https://marianabenjumea.shinyapps.io/practica_final/
+* Tableau: https://public.tableau.com/profile/mariana.benjumea#!/vizhome/ProyectoFinal-MarianaBenjumeaPalacio/Dashboard1
