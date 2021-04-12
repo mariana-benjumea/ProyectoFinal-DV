@@ -1,1 +1,4 @@
-https://marianabenjumea.shinyapps.io/practica_final/
+Puedes ver mi práctica final en cloud aquí:
+
+* Shiny: https://marianabenjumea.shinyapps.io/practica_final/
+* Tableau: https://public.tableau.com/profile/mariana.benjumea#!/vizhome/ProyectoFinal-MarianaBenjumeaPalacio/Dashboard1
